@@ -56,9 +56,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shpota&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Homelycarlos&theme=radical&hide_border=true" alt="Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shpota&layout=compact&theme=radical" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homelycarlos&layout=compact&theme=radical" alt="Languages" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 
 <h2 align="center">🐍 GitHub Activity Snake</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shpota/Shpota/main/output/github-snake-dark.svg" alt="GitHub Snake Dark" />
+  <img src="https://raw.githubusercontent.com/Homelycarlos/Homelycarlos/output/github-snake-dark.svg" alt="GitHub Snake Dark" />
 </div>
 
 <h4 align="center">💬 “In a world full of static pages... be the interactive one.”</h4>
