@@ -1,4 +1,4 @@
-<!-- ⚡ Cyberpunk-Styled Animated README for @Shpota -->
+<!-- ⚡ Cyberpunk-Styled Animated README for @Homelycarlos -->
 
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Homelycarlos&theme=darkmode&data=followers,repositories,stars,commits" alt="GitHub Widget" />
