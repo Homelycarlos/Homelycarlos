@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats (Fake High Numbers)</h2>
+<h2 align="center">📊 GitHub Stats )</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Commits-12,543-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Stars-10,000-yellow?style=for-the-badge&logo=github" />
